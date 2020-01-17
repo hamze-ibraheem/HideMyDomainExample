@@ -1,0 +1,60 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample",
+      "sdkFolder": "C:\\Users\\hamze\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app",
+      "makeFile": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\src\\main\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\.cxx",
+      "cxxFolder": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\hamze\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\build\\intermediates\\ndkBuild\\debug\\lib",
+    "objFolder": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local",
+    "jsonFolder": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\.cxx\\ndkBuild\\debug",
+    "gradleBuildOutputFolder": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\.cxx\\ndkBuild\\debug\\x86",
+  "jsonFile": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\.cxx\\ndkBuild\\debug\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\.cxx\\cxx\\debug\\x86",
+  "objFolder": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86",
+  "buildCommandFile": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\.cxx\\ndkBuild\\debug\\x86\\build_command.txt",
+  "buildOutputFile": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\.cxx\\ndkBuild\\debug\\x86\\build_output.txt",
+  "modelOutputFile": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\.cxx\\ndkBuild\\debug\\x86\\build_model.json",
+  "jsonGenerationLoggingRecordFile": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\.cxx\\ndkBuild\\debug\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\Users\\hamze\\OneDrive\\Documents\\GitHub\\HideMyDomainExample\\app\\.cxx\\ndkBuild\\debug\\x86\\compile_commands.json"
+}

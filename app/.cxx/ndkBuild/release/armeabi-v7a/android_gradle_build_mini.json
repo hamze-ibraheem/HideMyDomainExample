@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "C:\\Users\\hamze\\AndroidStudioProjects\\SampleHiddenDomain\\app\\src\\main\\jni\\Android.mk",
+    "C:\\Users\\hamze\\AndroidStudioProjects\\SampleHiddenDomain\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\hamze\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hamze\\AndroidStudioProjects\\SampleHiddenDomain\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hamze\\AndroidStudioProjects\\SampleHiddenDomain\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hamze/AndroidStudioProjects/SampleHiddenDomain/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\hamze\\AndroidStudioProjects\\SampleHiddenDomain\\app\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\hamze\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hamze\\AndroidStudioProjects\\SampleHiddenDomain\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hamze\\AndroidStudioProjects\\SampleHiddenDomain\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hamze/AndroidStudioProjects/SampleHiddenDomain/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\hamze\\AndroidStudioProjects\\SampleHiddenDomain\\app\\build\\intermediates\\ndkBuild\\release\\lib {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "keys-release-armeabi-v7a": {
+      "artifactName": "keys",
+      "buildCommand": "C:\\Users\\hamze\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hamze\\AndroidStudioProjects\\SampleHiddenDomain\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hamze\\AndroidStudioProjects\\SampleHiddenDomain\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hamze/AndroidStudioProjects/SampleHiddenDomain/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\hamze\\AndroidStudioProjects\\SampleHiddenDomain\\app\\build\\intermediates\\ndkBuild\\release\\lib C:/Users/hamze/AndroidStudioProjects/SampleHiddenDomain/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libkeys.so",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\hamze\\AndroidStudioProjects\\SampleHiddenDomain\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libkeys.so"
+    }
+  }
+}
